@@ -222,6 +222,10 @@
 ## AutoML
 - [TPOT: A Python tool for automating data science](http://www.randalolson.com/2016/05/08/tpot-a-python-tool-for-automating-data-science/), [GitHub repo](https://github.com/rhiever/tpot)
 
+
+ ## MLOps 
+ - [Zoomcamp: End2End ML project](https://github.com/DataTalksClub/mlops-zoomcamp)
+
 ## Regex Related
 - [RegExr](http://regexr.com/)
 - [Regex101](https://regex101.com/)
