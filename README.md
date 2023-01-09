@@ -224,6 +224,15 @@
 
 
  ## MLOps 
+ This one is my favourite 🤩
+
+1.  Model building and training
+2.  Experiment tracking
+3.  Orchestration
+4.  Model deployment
+5.  Cloud computing
+6.  Model Monitoring
+
  - [Zoomcamp: End2End ML project](https://github.com/DataTalksClub/mlops-zoomcamp)
 
 ## Regex Related
